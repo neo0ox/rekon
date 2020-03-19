@@ -1,2 +1,4 @@
 # rekon
-Rekon Repo
+Repositorio de Rekon Servicio
+
+Mauricio Perez
